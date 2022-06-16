@@ -1,5 +1,3 @@
-import java.util.List;
-
 public class CashRegister implements CashAccepter, BankCardAccepter {
 
     private int totalToPay;
